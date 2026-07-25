@@ -1,0 +1,25 @@
+{
+  "name": "credit-doc-rag-poc",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend API for document RAG comparison pipelines",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.22.2",
+    "helmet": "^8.0.0",
+    "neo4j-driver": "^5.26.0",
+    "openai": "^4.71.1",
+    "zod": "^3.23.8"
+  }
+}

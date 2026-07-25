@@ -1,0 +1,18 @@
+# --- Secrets: never track these ---
+.env
+*.env
+!.env.example
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+
+# --- OS / editor cruft ---
+.DS_Store
+*.swp
+
+# --- Data we can regenerate ---
+data/processed/
+
+# --- Local logs ---
+*.log
