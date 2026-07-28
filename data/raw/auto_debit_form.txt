@@ -1,0 +1,48 @@
+ACH AUTOMATIC PAYMENT AUTHORIZATION FORM
+(Recurring Debit Authorization)
+
+Related to: Credit and Guaranty Agreement dated April 25, 2005
+Facility: $20,000,000.00 Term Loan
+
+BORROWER / ACCOUNT HOLDER INFORMATION
+--------------------------------------
+Company Name:        TALEO CORPORATION
+Address:              575 Market Street, 8th Floor, San Francisco, CA 94105
+Authorized Signer:    Jean Lavigueur, Chief Financial Officer
+
+PAYEE / SERVICER INFORMATION
+--------------------------------------
+Payee Name:           Goldman Sachs Specialty Lending Group, L.P.
+Capacity:             Administrative Agent
+
+BANK ACCOUNT TO BE DEBITED
+--------------------------------------
+Bank Name:            [Borrower's Depository Bank]
+Account Type:         Business Checking
+Routing Number:       [9-digit ABA routing number]
+Account Number:       [Borrower account number]
+
+PAYMENT AUTHORIZATION
+--------------------------------------
+I/We hereby authorize Goldman Sachs Specialty Lending Group, L.P., as
+Administrative Agent, to initiate recurring automatic debit entries to the
+bank account identified above, for the purpose of collecting scheduled
+payments of principal and interest due under the Term Loan Note dated
+April __, 2005, issued pursuant to the Credit and Guaranty Agreement dated
+as of April 25, 2005, by and among Taleo Corporation, as Company,
+Recruitforce.com, Inc., as Guarantor, and the Lenders party thereto.
+
+Payment Frequency:     Monthly, as scheduled under Section 2.9 of the
+                        Credit Agreement
+Authorization Type:    Recurring, until terminated in writing
+
+This authorization shall remain in effect until Company provides written
+notice of revocation to Agent, with sufficient advance notice to allow
+Agent a reasonable opportunity to act on such notice.
+
+SIGNATURE
+--------------------------------------
+By:  _______________________________
+Name:  Jean Lavigueur
+Title: Chief Financial Officer
+Date:  ____________________

@@ -1,0 +1,44 @@
+CLOSING STATEMENT
+(Synthetic / Illustrative — created for proof-of-concept purposes,
+not an actual SEC filing or bank record)
+
+Re: $20,000,000.00 Term Loan
+Credit and Guaranty Agreement dated as of April 25, 2005
+
+Company:              Taleo Corporation
+Guarantor:            Recruitforce.com, Inc.
+Administrative Agent: Goldman Sachs Specialty Lending Group, L.P.
+Lender:                Goldman Sachs Specialty Lending Holdings, Inc.
+Closing Date:          April 25, 2005
+
+SOURCES OF FUNDS
+--------------------------------------
+Term Loan Principal Amount .................... $20,000,000.00
+                                                  --------------
+Total Sources ................................. $20,000,000.00
+
+USES OF FUNDS
+--------------------------------------
+Disbursement to Company (Net Proceeds) ......... $19,550,000.00
+Closing Fee (per Section 2.8) .................. $   200,000.00
+Administrative Agent Fee ....................... $   150,000.00
+Legal & Documentation Expenses ................. $   100,000.00
+                                                  --------------
+Total Uses ...................................... $20,000,000.00
+
+DISBURSEMENT INSTRUCTIONS
+--------------------------------------
+Net Proceeds Payable To:      Taleo Corporation
+Method:                        Wire Transfer
+Disbursement Account:          [Borrower's Depository Bank Account]
+
+ACKNOWLEDGMENT
+--------------------------------------
+The undersigned confirms the above figures accurately reflect the
+disbursement of the Term Loan made pursuant to the Credit and Guaranty
+Agreement dated April 25, 2005.
+
+Company:      TALEO CORPORATION
+By: _______________________________
+Name:  Jean Lavigueur
+Title: Chief Financial Officer
