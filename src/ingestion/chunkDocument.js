@@ -41,10 +41,27 @@ export function chunkDocument(cleanedText) {
   // Drop Table-of-Contents duplicates (their titles contain dotted leaders)
   const realMatches = allMatches.filter((m) => !m[2].includes("...."));
 
+  const chunks = [];
+
+  // BUG FIX: everything before the FIRST regex match was previously
+  // silently dropped — this is the document's opening preamble (party
+  // names, facility amount, agreement title), which turned out to be
+  // critical for answering basic "who/what" questions. Capture it
+  // explicitly as its own chunk.
+  if (allMatches.length > 0) {
+    const preambleText = cleanedText.slice(0, allMatches[0].index).trim();
+    if (preambleText.length > 0) {
+      chunks.push({
+        sectionId: "preamble",
+        subLabel: null,
+        text: preambleText,
+      });
+    }
+  }
+
   const sections = splitByPattern(cleanedText, SECTION_PATTERN);
   const realLabels = new Set(realMatches.map((m) => m[1]));
 
-  const chunks = [];
   // TOC and body share the same section labels (e.g. "1.1" appears twice) —
   // we only want each label's 2nd occurrence (the real body content).
   let labelCount = {};
